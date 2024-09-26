@@ -1,4 +1,4 @@
 # trial
 This is my first git repository.
 <br>
-Author(ADITI KRISHNAN)
+Author(ADITI KRISHNAN)-Nirmala
